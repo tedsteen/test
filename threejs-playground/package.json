@@ -1,0 +1,20 @@
+{
+  "name": "theejs-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ted Steen <ted.steen@gmail.com> (http://darkbits.org/)",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "three": "^0.79",
+    "lodash": "^4.14.0"
+  },
+  "devDependencies": {
+    "json-loader": "^0.5.4",
+    "transform-loader": "^0.2.3",
+    "webpack": "^1.13.1"
+  }
+}
